@@ -1,6 +1,6 @@
 # UK Elections
 
-**Project Description:** This is a new project set up to identify insights from analysis of UK election data.
+**Project Description:** This is a project set up to identify insights from analysis of UK election data.
 
 **Members (Slack)**: 
 @james-sr
