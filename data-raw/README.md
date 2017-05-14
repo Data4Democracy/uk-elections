@@ -1,0 +1,1 @@
+Folder to place data that needs to be cleaned or merged, prior to creating data.world files or incorporation in to R package.
