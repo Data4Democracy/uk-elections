@@ -10,6 +10,7 @@
 **Slack channel**: #uk-elections
 
 **Project Goals:**
+
 Short-term Focus: 
 Given the upcoming General Elections on 8th June, this project will have a short term focus of analysing the historical general elections results in the UK with the aim of gaining insights from past data and conducting predictive modelling on the June elections.
 
