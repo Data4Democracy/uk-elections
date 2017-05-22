@@ -19,6 +19,6 @@ The aim is to provide a comprehensive suite of results and variables, both local
 
 **Getting started:** 
 
-1. Contributers are welcome to the Slack channel to add ideas and suggestions. Alternatively, feel free to submit issues and comment on this repo.
+1. Contributers are welcome to the Slack channel to add ideas and suggestions.
 2. The Projects and Issues pages list work which needs to be done. As the project develops, this will keep growing so these are the best places to check out the evolving requirements. 
-3. Everything on the project is open for discussion, so do shout on the Slack channel, or feel free to submit a pull request.
+3. Everything on the project is open for discussion, so do shout on the Slack channel, or feel free to submit issues, pull requests, or comment on this repo.
