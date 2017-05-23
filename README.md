@@ -28,6 +28,7 @@ The aim is to provide a comprehensive suite of results and variables, both local
 The UK general elections analysis phase of this project will follow the general outline below. Details will be listed in the Issues/Projects pages.
 
 Stages
+
 **1. Data collection**: Collecting historical general elections results and supporting data, starting with 2015 then working backwards.
 
 **2. Exploratory Data Analysis**: Identify variables to help with prediction and modelling of future/upcoming elections.
