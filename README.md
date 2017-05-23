@@ -29,8 +29,11 @@ The UK general elections analysis phase of this project will follow the general 
 
 Stages
 **1. Data collection**: Collecting historical general elections results and supporting data, starting with 2015 then working backwards.
+
 **2. Exploratory Data Analysis**: Identify variables to help with prediction and modelling of future/upcoming elections.
+
 **3. Prediction/Modelling**: Explore different modelling options, including a binary model that predicts the winner, with a degree of probability, using the 2015 model as a base/train model (potentially add the 2010 data to have more data to work with), or predicting a number of votes per party at constituency level.
+
 **4. Data Visualisation**: Consider ways of displaying results, e.g. build dashboards, interactive visuals on a site, etc.
 
 
