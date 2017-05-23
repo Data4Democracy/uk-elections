@@ -25,7 +25,7 @@ The aim is to provide a comprehensive suite of results and variables, both local
 
 # **UK Parliamentary General Elections**
 
-The UK general elections analysis phase of this project will follow the general outline below. Details will be listed in the Issues/Projects pages.
+The UK general elections analysis phase of this project will follow the general outline below. Details will be listed in the Issues/Projects (General Elections 2017) pages.
 
 **Stages:**
 
