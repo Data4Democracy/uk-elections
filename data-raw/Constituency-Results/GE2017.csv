@@ -1,4 +1,4 @@
-ONSCode,Name,constituency_type,Party,PartyShort,FirstName,Surname,Gender,SittingMP,FormerMP,Votes,VoteShare,VoteChange
+ONSCode,Name,ConstituencyType,Party,PartyShort,FirstName,Surname,Gender,SittingMP,FormerMP,Votes,VoteShare,VoteChange
 W07000049,Aberavon,County,Labour,Lab,Stephen,Kinnock,Male,Yes,Yes,22662,0.681195142,0.192155394
 W07000049,Aberavon,County,Conservative,Con,Sadie,Vidal,Female,No,No,5901,0.17737766,0.058670684
 W07000049,Aberavon,County,Plaid Cymru,PC,Andrew,Bennison,Male,No,No,2761,0.082992666,-0.033208204
